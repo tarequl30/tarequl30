@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/tarequl30" target="blank"><img src="https://img.shields.io/twitter/follow/tarequl30?logo=twitter&style=for-the-badge" alt="tarequl30" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...​">
+
 - 🔭 I’m currently working on **HTML5, CSS3, BOOTSTRAP, JS**
 
 - 🌱 I’m currently learning **Node.js, React**
