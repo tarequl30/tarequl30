@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/tarequl30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tarequl30" height="30" width="40" /></a>
 <a href="https://fb.com/tarequl.tareq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tarequl.tareq" height="30" width="40" /></a>
 <a href="https://instagram.com/treqbroooh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="treqbroooh" height="30" width="40" /></a>
+<a href="https://medium.com/tarequl30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="tarequl30" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
