@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **HTML5, CSS3, BOOTSTRAP, JS**
 
-- 🌱 I’m currently learning **Node.js, React , firebase**
+- 🌱 I’m currently learning **Node.js, React ,  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>**
 
 - 👨‍💻 All of my projects are available at [github.com/tarequl30](github.com/tarequl30)
 
