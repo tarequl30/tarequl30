@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tarequl30" target="blank"><img src="https://img.shields.io/twitter/follow/tarequl30?logo=twitter&style=for-the-badge" alt="tarequl30" /></a> </p>
 
-- 🔭 I’m currently working on **HTML5, CSS3, BOOTSTRAP, JS**
+- 🔭 I’m currently working on **HTML5, CSS3, BOOTSTRAP, JS , Native, API **
 
 - 🌱 I’m currently learning **Node.js, React ,React Native, Redux, NextJs <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>**
 
